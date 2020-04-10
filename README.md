@@ -1,2 +1,4 @@
 # 0ca4024f.github.io
-blog
+[Github](https://github.com/0ca4024f)
+
+[Email](mailto:0ca4024f@pm.me)
