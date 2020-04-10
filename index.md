@@ -1,1 +1,1 @@
-# [Welcome to my blog] (0ca4024f.github.io/welcome.md)
+[Welcome](http://0ca4024f.github.io/welcome)
